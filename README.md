@@ -36,10 +36,10 @@
 
 ### Languages
 
-- <img border="1" alt="Ukrainian" title="Ukrainian" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/800px-Flag_of_Ukraine.svg.png" /> **Ukrainian**: Native
-- <img border="1" alt="Russian" title="Russian" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anti-war_flag_of_Russian_protesters_%282022%29.svg/2560px-Anti-war_flag_of_Russian_protesters_%282022%29.svg.png" /> **Russian**: Native
-- <img border="1" alt="English" title="English" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2880px-Flag_of_the_United_Kingdom.svg.png" /> **English**: Intermediate (strong)
-- <img border="1" alt="Italian" title="Italian" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1599px-Flag_of_Italy.svg.png?20111003040337" /> **Italian**: Pre-Intermediate
+- <img border="2" alt="Ukrainian" title="Ukrainian" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/800px-Flag_of_Ukraine.svg.png" /> **Ukrainian**: Native
+- <img border="2" alt="Russian" title="Russian" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anti-war_flag_of_Russian_protesters_%282022%29.svg/2560px-Anti-war_flag_of_Russian_protesters_%282022%29.svg.png" /> **Russian**: Native
+- <img border="2" alt="English" title="English" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2880px-Flag_of_the_United_Kingdom.svg.png" /> **English**: Intermediate (strong)
+- <img border="2" alt="Italian" title="Italian" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1599px-Flag_of_Italy.svg.png?20111003040337" /> **Italian**: Pre-Intermediate
 
 <!-- ### Portfolio
 
