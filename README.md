@@ -39,7 +39,7 @@
 
 ### Languages
 
-- <img alt="Ukrainian" title="Ukrainian" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/800px-Flag_of_Ukraine.svg.png" /> **Ukrainian**: Native
+- <img alt="Ukrainian" title="Ukrainian" width="18px" height="12px" src="https://cdn.britannica.com/14/4814-050-12EFD9D1/Flag-Ukraine.jpg" /> **Ukrainian**: Native
 - <img alt="Russian" title="Russian" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anti-war_flag_of_Russian_protesters_%282022%29.svg/2560px-Anti-war_flag_of_Russian_protesters_%282022%29.svg.png" /> **Russian**: Native
 - <img alt="English" title="English" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2880px-Flag_of_the_United_Kingdom.svg.png" /> **English**: Intermediate (strong)
 - <img alt="Italian" title="Italian" width="18px" height="12px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1599px-Flag_of_Italy.svg.png?20111003040337" /> **Italian**: Pre-Intermediate
