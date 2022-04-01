@@ -35,6 +35,7 @@
 > <img align="left" alt="Netlify" title="Netlify" width="32px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
 > <img align="left" alt="Figma" title="Figma" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWk-5fWujx55QDIxsgSBTUR4H6zaU7-h1vr_LvKn5N5yvokV01OoSzgbv0Z-MUO9cYUkA&usqp=CAU" />
 > <img align="left" alt="TypeScript" title="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+> <img align="left" alt="Trello" title="Trello" width="32px" src="https://cdn.worldvectorlogo.com/logos/trello.svg" />
 > <br/><br/>
 
 ### Languages
