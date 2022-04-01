@@ -60,3 +60,6 @@ in process... -->
 Slack -
 Discord
 
+### Hobbies
+
+⚽ football - ✈️ travelling - 🏆 sport poker - 🏓 ping pong - 🎾 tennis - 🚴 biking - ⚪ billiard - 🎮 FIFA
