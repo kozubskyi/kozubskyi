@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a begginer [future advanced 😅] Full Stack Developer
+## Hi there 👋 I'm a begginer Full Stack Developer
 
 - 🌱 I’m currently learning **as much as possible**
 - 📫 How to reach me: **denys.kozubskyi@gmail.com**
