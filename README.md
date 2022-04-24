@@ -24,19 +24,15 @@
 > <img align="left" alt="GitHub" title="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 > <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 > <br/><br/><br/>
+<!-- > <img align="left" alt="Prettier" title="Prettier" width="32px" src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" /> -->
 > <img align="left" alt="Sass" title="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 > <img align="left" alt="Webpack" title="Webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 > <img align="left" alt="Babel" title="Babel" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
-
-<!-- > <img align="left" alt="Prettier" title="Prettier" width="32px" src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" /> -->
 <!-- > <img align="left" alt="Axios" title="Axios" width="32px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" /> -->
-
 > <img align="left" alt="Redux" title="Redux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-
 <!-- > <img align="left" alt="npm" title="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /> -->
 <!-- > <img align="left" alt="Yarn" title="Yarn" width="32px" src="https://raw.githubusercontent.com/github/explore/bf101b8b748365dbfccbb8ef4a1cf6832795830e/topics/yarn/yarn.png" /> -->
 <!-- > <img align="left" alt="Mongoose" title="Mongoose" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" /> -->
-
 > <img align="left" alt="Postman" title="Postman" width="32px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
 > <img align="left" alt="Netlify" title="Netlify" width="32px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
 > <img align="left" alt="Material-UI" title="Material-UI" width="32px" src="https://mui.com/static/logo.png" />
