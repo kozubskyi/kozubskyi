@@ -36,13 +36,13 @@
 > <img align="left" alt="Heroku" title="Heroku" width="32px" src="https://www.svgrepo.com/show/353869/heroku-icon.svg" />
 > <img align="left" alt="Material-UI" title="Material-UI" width="32px" src="https://img.icons8.com/color/12x/material-ui.png" />
 > <img align="left" alt="TypeScript" title="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-> <img align="left" alt="Figma" title="Figma" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWk-5fWujx55QDIxsgSBTUR4H6zaU7-h1vr_LvKn5N5yvokV01OoSzgbv0Z-MUO9cYUkA&usqp=CAU" />
 > <br/><br/>
 
 <!-- > <img align="left" alt="Prettier" title="Prettier" width="32px" src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" /> -->
 <!-- > <img align="left" alt="Axios" title="Axios" width="32px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" /> -->
 <!-- > <img align="left" alt="npm" title="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /> -->
 <!-- > <img align="left" alt="Yarn" title="Yarn" width="32px" src="https://raw.githubusercontent.com/github/explore/bf101b8b748365dbfccbb8ef4a1cf6832795830e/topics/yarn/yarn.png" /> -->
+<!-- > <img align="left" alt="Figma" title="Figma" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWk-5fWujx55QDIxsgSBTUR4H6zaU7-h1vr_LvKn5N5yvokV01OoSzgbv0Z-MUO9cYUkA&usqp=CAU" /> -->
 
 ### Languages
 
