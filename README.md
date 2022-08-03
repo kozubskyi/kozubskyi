@@ -28,6 +28,8 @@
 > <img align="left" alt="Webpack" title="Webpack" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 > <img align="left" alt="Babel" title="Babel" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
 > <img align="left" alt="Redux" title="Redux" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+> <img align="left" alt="Mongoose" title="Mongoose" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
+> <img align="left" alt="Insomnia" title="Insomnia" width="32px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" />
 > <img align="left" alt="Postman" title="Postman" width="32px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
 > <img align="left" alt="Firebase" title="Firebase" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 > <img align="left" alt="Netlify" title="Netlify" width="32px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
@@ -35,15 +37,12 @@
 > <img align="left" alt="Material-UI" title="Material-UI" width="32px" src="https://img.icons8.com/color/12x/material-ui.png" />
 > <img align="left" alt="TypeScript" title="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 > <img align="left" alt="Figma" title="Figma" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWk-5fWujx55QDIxsgSBTUR4H6zaU7-h1vr_LvKn5N5yvokV01OoSzgbv0Z-MUO9cYUkA&usqp=CAU" />
-> <img align="left" alt="Trello" title="Trello" width="32px" src="https://cdn.worldvectorlogo.com/logos/trello.svg" />
-> <img align="left" alt="Slack" title="Slack" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" />
 > <br/><br/>
 
 <!-- > <img align="left" alt="Prettier" title="Prettier" width="32px" src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" /> -->
 <!-- > <img align="left" alt="Axios" title="Axios" width="32px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" /> -->
 <!-- > <img align="left" alt="npm" title="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /> -->
 <!-- > <img align="left" alt="Yarn" title="Yarn" width="32px" src="https://raw.githubusercontent.com/github/explore/bf101b8b748365dbfccbb8ef4a1cf6832795830e/topics/yarn/yarn.png" /> -->
-<!-- > <img align="left" alt="Mongoose" title="Mongoose" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" /> -->
 
 ### Languages
 
