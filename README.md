@@ -47,7 +47,7 @@
 ### Languages
 
 - <img src="https://cdn.britannica.com/14/4814-050-12EFD9D1/Flag-Ukraine.jpg" alt="Ukrainian" title="Ukrainian" width="18px" height="12px" /> **Ukrainian**: Native
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Blue_and_White_flag.svg" alt="Russian" title="Russian" width="18px" height="12px" /> **Russian**: Native
+- <img src="https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6249651fcdf6b456aba0a8ab_6249777b2664b56b312f64ef/scale_1200" alt="Russian" title="Russian" width="18px" height="12px" /> **Russian**: Native
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2880px-Flag_of_the_United_Kingdom.svg.png" alt="English" title="English" width="18px" height="12px" /> **English**: Intermediate (strong)
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1599px-Flag_of_Italy.svg.png?20111003040337" alt="Italian" title="Italian" width="18px" height="12px" /> **Italian**: Pre-Intermediate
 
