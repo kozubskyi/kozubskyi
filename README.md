@@ -67,5 +67,5 @@ in process... -->
 
 ### Hobbies
 
-💻 coding - ⚽ football - ✈️ travelling - 🏆 sport poker - 🏓 ping pong - 🎾 tennis - 🚴 biking - ⚪ billiard - 🎮 FIFA
+football - travels - poker - mafia - FIFA - tennis - ping pong - billiard - biking - paintball - chess - board games
 
