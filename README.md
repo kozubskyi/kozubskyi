@@ -47,7 +47,7 @@
 ### Languages
 
 - <img src="https://cdn.britannica.com/14/4814-050-12EFD9D1/Flag-Ukraine.jpg" alt="Ukrainian" title="Ukrainian" width="18px" height="12px" /> **Ukrainian**: Native
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anti-war_flag_of_Russian_protesters_%282022%29.svg/2560px-Anti-war_flag_of_Russian_protesters_%282022%29.svg.png" alt="Russian" title="Russian" width="18px" height="12px" /> **Russian**: Native
+- <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Anti-war_flag_of_Russian_protesters_%282022%29.svg/2560px-Anti-war_flag_of_Russian_protesters_%282022%29.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/White-blue-white_flag.svg/2560px-White-blue-white_flag.svg.png)" alt="Russian" title="Russian" width="18px" height="12px" /> **Russian**: Native
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2880px-Flag_of_the_United_Kingdom.svg.png" alt="English" title="English" width="18px" height="12px" /> **English**: Intermediate (strong)
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1599px-Flag_of_Italy.svg.png?20111003040337" alt="Italian" title="Italian" width="18px" height="12px" /> **Italian**: Pre-Intermediate
 
