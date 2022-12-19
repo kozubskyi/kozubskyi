@@ -72,4 +72,4 @@ in process... -->
 
 ### Hobbies
 
-football - travels - poker - mafia - FIFA - tennis - table tennis - billiard - biking - paintball - chess - board games
+football - travels - poker - mafia - EA FIFA - CS:GO - tennis - table tennis - billiard - biking - paintball - chess - board games
