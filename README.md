@@ -58,7 +58,7 @@
 
 in process... -->
 
-### My messengers and social networks
+### Contacts
 
 [Telegram](https://t.me/kozubskyi 't.me/kozubskyi') -
 [Viber](https://viber.click/380991050088 'viber.click/380991050088') -
